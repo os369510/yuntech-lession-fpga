@@ -1,0 +1,22 @@
+C:/Users/user/Desktop/FPGAandLinux/flash/newspaper_test.v {1 {vlog -work work -nocovercells C:/Users/user/Desktop/FPGAandLinux/flash/newspaper_test.v
+Model Technology ModelSim ALTERA vlog 10.0c Compiler 2011.09 Sep 21 2011
+-- Compiling module newspaper_test
+
+Top level modules:
+	newspaper_test
+
+} {} {}} C:/Users/user/Desktop/??????????/flash/newspaper_test.v {1 {vlog -work work -nocovercells C:/Users/user/Desktop/??????????/flash/newspaper_test.v
+Model Technology ModelSim ALTERA vlog 10.0c Compiler 2011.09 Sep 21 2011
+-- Compiling module newspaper_test
+
+Top level modules:
+	newspaper_test
+
+} {} {}} D:/Workspace/Workspace_Modelsim/Newspaper/Newspaper.v {1 {vlog -work work -nocovercells D:/Workspace/Workspace_Modelsim/Newspaper/Newspaper.v
+Model Technology ModelSim ALTERA vlog 10.0c Compiler 2011.09 Sep 21 2011
+-- Compiling module newspaper
+
+Top level modules:
+	newspaper
+
+} {} {}}

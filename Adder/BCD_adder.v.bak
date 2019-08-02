@@ -1,0 +1,36 @@
+module BCD_adder(A,B,Cin,Result,Cout);
+  
+  input [3:0] A,B;
+  input Cin;
+//  wire [4:0] sum;
+  output [3:0] Result;
+  output Cout;
+  
+//  sum=A+B+Cin
+  assign Cout = (A+B+Cin)>10? 1:0 ;
+  assign Result = (A+B+Cin)>10? (A+B+Cin)%10:(A+B+Cin);
+  /*
+  
+  always @(A or B or Cin)
+  begin
+    sum=A+B+Cin;
+    if(sum>4b'1001)
+    begin
+      sum=sum-4b'1010;
+      Result[0]=sum[0];
+      Result[1]=sum[1];
+      Result[2]=sum[2];
+      Result[3]=sum[3];
+      Cout=1;
+    end  
+    else
+    begin
+      Result[0]=sum[0];
+      Result[1]=sum[1];
+      Result[2]=sum[2];
+      Result[3]=sum[3];
+    end
+  end*/
+//  assign out=a+b;
+  
+endmodule

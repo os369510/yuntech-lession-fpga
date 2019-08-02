@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Workspace\Workspace_Modelsim
+vnewspaper
+!s100 JKLMlVBj9]F_1HBNVD9J43
+I5A:dolRJmlg8^dKDe8eS]2
+Z1 VRFTh]`aCYgAmFVAfoTTB>0
+Z2 dD:\Workspace\Workspace_Modelsim\Newspaper
+w1394780564
+Z3 8D:/Workspace/Workspace_Modelsim/Newspaper/Newspaper.v
+Z4 FD:/Workspace/Workspace_Modelsim/Newspaper/Newspaper.v
+L0 1
+Z5 OV;L;10.0c;49
+r1
+!s85 0
+31
+!s108 1394780565.181000
+!s107 D:/Workspace/Workspace_Modelsim/Newspaper/Newspaper.v|
+Z6 !s90 -reportprogress|300|-work|work|-nocovercells|D:/Workspace/Workspace_Modelsim/Newspaper/Newspaper.v|
+!s101 -O0
+Z7 !s102 -nocovercells
+Z8 o-work work -nocovercells -O0
+vnewspaper_test
+Z9 !s100 L=F<dNZmQ;oiBnN?=?XlQ3
+Z10 IV_a1Ih;0oX`[zfg<Y1GRA0
+Z11 VfcQ;6=SWXLlC?MbeB9e4B3
+R2
+Z12 w1394442262
+Z13 8C:/Users/user/Desktop/FPGAandLinux/flash/newspaper_test.v
+Z14 FC:/Users/user/Desktop/FPGAandLinux/flash/newspaper_test.v
+L0 3
+R5
+r1
+31
+Z15 !s90 -reportprogress|300|-work|work|-nocovercells|C:/Users/user/Desktop/FPGAandLinux/flash/newspaper_test.v|
+R7
+R8
+Z16 !s108 1394779817.684000
+Z17 !s107 C:/Users/user/Desktop/FPGAandLinux/flash/newspaper_test.v|
+!s85 0
+!s101 -O0

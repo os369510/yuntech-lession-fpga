@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Workspace\Workspace_Modelsim
+vadder_8bit
+Z1 !s100 DW=6HZDojeQJnAEXMYmJ33
+Z2 IN6@2@T?53E53SFc`nnA:63
+Z3 VVT6f?T_ADgO[?gXkn2UX?2
+Z4 dD:\Workspace\Workspace_Modelsim
+Z5 w1393233117
+Z6 8D:/Workspace/Workspace_Modelsim/adder_8bit.v
+Z7 FD:/Workspace/Workspace_Modelsim/adder_8bit.v
+L0 1
+Z8 OV;L;10.0c;49
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|-nocovercells|D:/Workspace/Workspace_Modelsim/adder_8bit.v|
+Z10 !s102 -nocovercells
+Z11 o-work work -nocovercells -O0
+Z12 !s108 1393236708.102000
+Z13 !s107 D:/Workspace/Workspace_Modelsim/adder_8bit.v|
+!s85 0
+!s101 -O0
+vadder_8bit_tb1
+Z14 !s100 hSPH]Zb>XHl?e0n_RCZMS2
+Z15 IbLQULhKiC67YGOHShaIfj0
+Z16 VmocEN]`gWWc@9W>jaS=]]0
+R4
+Z17 w1393233589
+Z18 8D:/Workspace/Workspace_Modelsim/adder_8bit_tb1.v
+Z19 FD:/Workspace/Workspace_Modelsim/adder_8bit_tb1.v
+L0 3
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|-nocovercells|D:/Workspace/Workspace_Modelsim/adder_8bit_tb1.v|
+R10
+R11
+Z21 !s108 1393236708.440000
+Z22 !s107 D:/Workspace/Workspace_Modelsim/adder_8bit_tb1.v|
+!s85 0
+!s101 -O0
+vBCD_adder
+Z23 IeE^^n^m_QCSQn@_5dVM1e0
+Z24 VPeI;hYZb;1Bc`nh6YB8N60
+R4
+Z25 w1393236711
+Z26 8D:/Workspace/Workspace_Modelsim/BCD_adder.v
+Z27 FD:/Workspace/Workspace_Modelsim/BCD_adder.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|-nocovercells|D:/Workspace/Workspace_Modelsim/BCD_adder.v|
+R10
+R11
+Z29 n@b@c@d_adder
+Z30 !s100 LY9Ro?nQUKAfzVY[I25Eh2
+!s85 0
+Z31 !s108 1393236711.402000
+Z32 !s107 D:/Workspace/Workspace_Modelsim/BCD_adder.v|
+!s101 -O0
+vBCD_adder_test
+Z33 !s100 ;TW<b`OI@G2DVbnkZWzn41
+Z34 IcbhU_cML[bL<l`e3bQ;<J3
+Z35 VYioHFbmRmbaCLZ1I9Q<QC3
+R4
+Z36 w1393236362
+Z37 8C:/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/R14JI0A8/BCD_adder_test[1].v
+Z38 FC:/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/R14JI0A8/BCD_adder_test[1].v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1393236711.765000
+!s107 C:/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/R14JI0A8/BCD_adder_test[1].v|
+Z39 !s90 -reportprogress|300|-work|work|-nocovercells|C:/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/R14JI0A8/BCD_adder_test[1].v|
+!s101 -O0
+R10
+R11
+Z40 n@b@c@d_adder_test
